@@ -25,4 +25,5 @@ Email: hjotaniy@stevens.edu
 GitHub Repository: https://github.com/havisheyjotaniya/Strava_Lite
 
 Any Bugs or Issues you faced while working on this project and how you overcame the issues ?
+
 -> I faced no issues while working on this project.
